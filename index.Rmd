@@ -1,6 +1,9 @@
 ---
 title: "Tiana Bell's Website"
-output: html_document
+output: 
+  html_document:
+    theme: darkly
+    highlight: tango
 ---
 
 ## About
