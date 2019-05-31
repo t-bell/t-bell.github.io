@@ -3,26 +3,28 @@ title: "Tiana Bell's Website"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## About
 
-## R Markdown
+New Data Science Analyst working at Problem Forward. I am interested in data visualization and data analytics. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I have studied Data Science using the Leek Group's Chromebook Data Science Program. I have a certificate from the completed course that helped me land my current position. I learned how to make shiny apps, flex dashboards, tidy untidy data, and collecting analyses for different sectors of the business world. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+I have worked with other fortune 500 companies that specialize in marketing anlytics, pharmecutical venders, lawyers, homeless drop-in centers, and biomedical sectors. 
 
-```{r cars}
-summary(cars)
-```
+## Interests
 
-## Including Plots
+* Data Visualization
+* Data Analytics
 
-You can also embed plots, for example:
+## Projects
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* I am under NDAs, can ask me more about them in generalized terms!
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/tiana-bell-906494162/)
+* [GitHub](https://github.com/t-bell)
+
+## Contact
+
+* [tiana.e.bell@gmail.com](mailto:tiana.e.bell@gmail.com)
