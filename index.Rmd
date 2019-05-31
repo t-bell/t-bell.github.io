@@ -9,6 +9,8 @@ output:
     toc_depth: 3
 ---
 
+![](img/Tiana_photos/8177_2.jpeg){width=100px}
+
 ## About
 
 New Data Science Analyst working at Problem Forward. I am interested in data visualization and data analytics. 
