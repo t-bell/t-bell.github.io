@@ -4,6 +4,9 @@ output:
   html_document:
     theme: darkly
     highlight: tango
+    toc: true
+    toc_float: true
+    toc_depth: 3
 ---
 
 ## About
